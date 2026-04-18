@@ -45,9 +45,9 @@ const CONFIG = {
     
     // Memory effect messages
     memoryMessages: {
-        lateNight: "Those late nights talking with you are my favorite memories 🌙✨",
-        firstMeeting: "Seeing u made a spart inside my heart and i knew from that point on that i could do anything for u, The Love of my life💫💕",
-        care: "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍"
+        lateNight: "Those late nights talking with you made us forget time , all i think about is to be near you holding your little hands and just talking endlessly 🌙✨",
+        firstMeeting: "Seeing u made a spark inside my heart and i knew from that point on that i could do anything for u, The Love of my life💫💕",
+        care: "your silent care and love, your anger on me , your cute rudeness , your shy smile and the way your face lights up when i talk about us, these things keep making me fall in love with u even deeper everyday💕😍"
     }
 };
 
