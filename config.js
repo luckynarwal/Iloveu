@@ -34,7 +34,7 @@ const CONFIG = {
     kissMessages: {
         10: "10 kisses! You're so sweet! 💕",
         50: "50 kisses! I'm falling deeper in love! 💖",
-        100: "100 kisses! You're my everything! 💘 ,"
+        100: "100 kisses! You're my everything! and u will make sure to never doubt your own self-worth for me u are the only person i care about here i couldn't care less about anyone other than you 💘 ,"
     },
     
     // Character interaction messages
